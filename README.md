@@ -1,4 +1,4 @@
 # Spine-Reminder
 大學專題
 
-DEMO影片 https://www.youtube.com/watch?v=JxWYIs29I0A&t=1s
+Demo影片 https://www.youtube.com/watch?v=JxWYIs29I0A&t=1s
